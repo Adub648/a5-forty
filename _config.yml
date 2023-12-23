@@ -37,6 +37,12 @@ markdown: kramdown
 sass:
   style: compressed
 
+domain: alexmwils.com
+
+url: http:/alexmwils.com
+
+baseurl: /a5-forty/
+
 exclude:
 - "*.gemspec"
 - LICENSE.md
